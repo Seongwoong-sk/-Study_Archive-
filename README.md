@@ -35,6 +35,7 @@
       
       
 ## Problem-Solving Competition
+- [x] [Book '이것이 취업을 위한 코딩테스트다'](https://github.com/Seongwoong-sk/python-for-coding-test) ★
 - [x] [Team Notes of ndb796](https://github.com/Seongwoong-sk/Python-Competitive-Programming-Team-Notes) ★
 
 
