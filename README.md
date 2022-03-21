@@ -1,7 +1,9 @@
 # Study_Archive
+    
 
 **Github** Collection of Various Subjects I have studied    
-★  means that This is the  subject I have currently working on and am into 
+**★** means that this is the subject **I have currently working on and am into**
+
 ---
 
 
