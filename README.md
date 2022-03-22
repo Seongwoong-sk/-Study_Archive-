@@ -29,6 +29,7 @@
 
 ### Object Detection
 
+- [x] [Computer Vision Perfect Guide](https://github.com/Seongwoong-sk/Computer_Vision_Perfect_Guide)
 - [x] [Obejct Detection Paper Zoo](https://github.com/Seongwoong-sk/deep_learning_object_detection) ★
 - [x] [MMDetection](https://github.com/Seongwoong-sk/mmdetection) ★
  
