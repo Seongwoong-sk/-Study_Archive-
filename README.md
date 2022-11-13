@@ -2,10 +2,8 @@
     
 
 **Github** Collection of Various Subjects I have studied    
-**★** means that this is the subject **I have been currently working on and am into**
 
 ---
-
 
 
 ### Data Analysis & Data Science
@@ -15,7 +13,6 @@
 - [x] [ADP](https://github.com/Seongwoong-sk/Open-Data-Analysis-with-Python)
 
 
- 
 
 ### General Deep Learning & Deep Understanding of Convolutional Neural Network
 
@@ -30,14 +27,14 @@
 ### Object Detection
 
 - [x] [Computer Vision Perfect Guide](https://github.com/Seongwoong-sk/Computer_Vision_Perfect_Guide)
-- [x] [Obejct Detection Paper Zoo](https://github.com/Seongwoong-sk/deep_learning_object_detection) ★
-- [x] [MMDetection](https://github.com/Seongwoong-sk/mmdetection) ★
- 
+- [x] [Obejct Detection Paper Zoo](https://github.com/Seongwoong-sk/deep_learning_object_detection) 
+- [x] [MMDetection](https://github.com/open-mmlab/mmdetection) 
+- [x] [Vision Transformer](https://github.com/Seongwoong-sk/ViT)
       
       
 ### Problem-Solving Competition
-- [x] [Book '이것이 취업을 위한 코딩테스트다'](https://github.com/Seongwoong-sk/python-for-coding-test) ★
-- [x] [Team Notes of ndb796](https://github.com/Seongwoong-sk/Python-Competitive-Programming-Team-Notes) ★
+- [x] [Book '이것이 취업을 위한 코딩테스트다'](https://github.com/Seongwoong-sk/python-for-coding-test)
+- [x] [Team Notes of ndb796](https://github.com/Seongwoong-sk/Python-Competitive-Programming-Team-Notes)
 
 
 
