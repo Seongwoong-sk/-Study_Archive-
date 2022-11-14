@@ -1,4 +1,4 @@
-# ✨ Study_Archive ✨
+# ✏️ Study_Archive 
     
 
 **Github** Collection of Various Subjects I have studied    
