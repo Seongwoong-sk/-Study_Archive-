@@ -22,6 +22,7 @@
 - [x] [Obejct Detection Paper Zoo](https://github.com/Seongwoong-sk/deep_learning_object_detection) 
 - [x] [MMDetection](https://github.com/open-mmlab/mmdetection) 
 - [x] [Vision Transformer](https://github.com/Seongwoong-sk/ViT)
+- [x] [Timm](https://github.com/Seongwoong-sk/pytorch-image-models)
       
       
 ### Data Analysis & Data Science
