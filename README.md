@@ -6,13 +6,6 @@
 <br>
 
 
-### Data Analysis & Data Science
-
-- [x] [Data Analysis for Everyone](https://github.com/Seongwoong-sk/Data-Analysis-for-Everyone) 
-- [x] [Open Data Analysis with Python](https://github.com/Seongwoong-sk/Open-Data-Analysis-with-Python)
-- [x] [ADP](https://github.com/Seongwoong-sk/Open-Data-Analysis-with-Python)
-
-
 
 ### General Deep Learning & Deep Understanding of Convolutional Neural Network
 
@@ -23,13 +16,19 @@
 - [x] [CNN Perfect Guide](https://github.com/Seongwoong-sk/CNN_Perfect_Guide)
 
 
-
 ### Object Detection
 
 - [x] [Computer Vision Perfect Guide](https://github.com/Seongwoong-sk/Computer_Vision_Perfect_Guide)
 - [x] [Obejct Detection Paper Zoo](https://github.com/Seongwoong-sk/deep_learning_object_detection) 
 - [x] [MMDetection](https://github.com/open-mmlab/mmdetection) 
 - [x] [Vision Transformer](https://github.com/Seongwoong-sk/ViT)
+      
+      
+### Data Analysis & Data Science
+
+- [x] [Data Analysis for Everyone](https://github.com/Seongwoong-sk/Data-Analysis-for-Everyone) 
+- [x] [Open Data Analysis with Python](https://github.com/Seongwoong-sk/Open-Data-Analysis-with-Python)
+- [x] [ADP](https://github.com/Seongwoong-sk/ADP-)
       
       
 ### Problem-Solving Competition
